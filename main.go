@@ -25,17 +25,17 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat"  基础词库
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage" // 统计睡眠时间
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage"  统计睡眠时间
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri"  ATRI词库
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus"  词典匹配回复
 
-	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
+	_ "github.com/FloatTech/zbputils/job" 定时指令触发器
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
@@ -56,7 +56,7 @@ import (
 	//                               vvvv                               //
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"        //服务器监控
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"          随机老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"            随机老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"             base16384加解密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"            百度一下
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"         查询b站用户信息
